@@ -34,11 +34,22 @@
 	border-right: 2px solid black;
 }
 
-.nav i {
+#settings,
+#home {
 	background-image: linear-gradient(#590099, black);
 	border-left: 2px solid black;
 	text-align: center;
 	padding: 3px;
 	color: rgb(191, 102, 255);
 	width: 10%;
+}
+
+#wrap-home {
+	background-image: linear-gradient(#590099, black);
+	border-left: 2px solid black;
+	text-align: center;
+	padding: 3px;
+	color: rgb(191, 102, 255);
+	width: 10%;
+	font-size: x-large;
 }
